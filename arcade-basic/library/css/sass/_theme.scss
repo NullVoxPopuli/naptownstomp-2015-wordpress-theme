@@ -225,16 +225,17 @@ input, textarea {
 
 #more-site {
 	margin-top: 50px;
-	border: 1px solid #fff;
+	border: 1px solid black;
 	color: #fff;
 	font-weight: normal;
 	padding: 10px 25px;
 	display: none;
-	background: transparent;
+	background: white;
+	background: rgba(255, 255, 255, 0.7);
 
 	&:hover {
-		background: black(0.1);
-		border-color: #fff;
+		background: white;
+		background: rgba(255, 255, 255, 0.9);
 		color: #fff;
 	}
 
