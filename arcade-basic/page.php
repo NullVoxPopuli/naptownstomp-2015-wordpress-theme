@@ -19,8 +19,7 @@ get_header();
 				while ( have_posts() ) : the_post();
 					?>
 					<article id="post-<?php the_ID(); ?>" <?php post_class(); ?>>
-						<h1 class="entry-title"><?php the_title(); ?></h1>
-
+						<!-- <h1 class="entry-title"><?php the_title(); ?></h1> -->
 					    <div class="entry-content description clearfix">
 						    <?php the_content( __( 'Read more', 'arcade') ); ?>
 					    </div><!-- .entry-content -->

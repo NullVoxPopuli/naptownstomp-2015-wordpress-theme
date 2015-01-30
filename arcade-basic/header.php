@@ -69,8 +69,8 @@ $space_class = '';
     					</h2>
 
     					<div id="more-site">
-	    					<a href="#" id="more-site" class="btn btn-default btn-lg"><?php _e( 'Learn More', 'arcade' ); ?></a>
-	    					<a href='http://swingoutclinic.aeonvera.com/' id='secondary-home-button' class='btn btn-default btn-lg'>SwingOut Clinic</a>
+	    					<a href="#" class="btn btn-default btn-lg"><?php _e( 'Learn More', 'arcade' ); ?></a>
+	    					<a href='http://www.naptownstomp.org/swingout-clinic' id='secondary-home-button' class='btn btn-default btn-lg'>SwingOut Clinic</a>
     					</div>
     				</div>
 
